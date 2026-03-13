@@ -58,7 +58,7 @@ const projects: Project[] = [
     longDescription:
       "Focus Pro Timer streamlines your time management with a distraction-free, high-contrast interface. Ideal for workouts, or deep work, it tracks your progress clearly and works offline, keeping you focused.",
     image: "/timer2.jpg",
-    apkUrl: "#",
+    apkUrl: "https://github.com/Co3code/kert-app-client3/releases/download/v1.0.0.0/focus-timer.apk",
     features: [
       "Precision Interval Engine",
       "High-Contrast Field UI",
