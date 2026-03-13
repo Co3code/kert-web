@@ -93,12 +93,12 @@ const skills: Skill[] = [
 ];
 
 const galleryItems: GalleryItem[] = [
-  { id: 1, title: "", image: "/brown.jpg" },
-  { id: 2, title: "", image: "/good.jpg" },
-  { id: 3, title: "", image: "jose.jpg" },
-  { id: 4, title: "", image: "opps.jpg" },
-  { id: 5, title: "", image: "shesh.jpg" },
-  { id: 6, title: "", image: "sigma.jpg" },
+  { id: 1, title: "", image: "/1.jpg" },
+  { id: 2, title: "", image: "/2.jpg" },
+  { id: 3, title: "", image: "3.jpg" },
+  { id: 4, title: "", image: "4.jpg" },
+  { id: 5, title: "", image: "5.jpg" },
+  { id: 6, title: "", image: "6.jpg" },
 ];
 
 // --- Components ---
