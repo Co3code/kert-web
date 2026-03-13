@@ -365,7 +365,7 @@ const Home = () => {
                       <span className="w-12 h-12 rounded-full border border-white/20 flex items-center justify-center group-hover:bg-white group-hover:text-black transition-all">
                         <ChevronRight size={20} />
                       </span>
-                      View Case Study
+                      View app
                     </Link>
                   </div>
                 </div>
